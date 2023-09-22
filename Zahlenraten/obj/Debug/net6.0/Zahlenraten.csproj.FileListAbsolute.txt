@@ -1,0 +1,14 @@
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\bin\Debug\net6.0\Zahlenraten.exe
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\bin\Debug\net6.0\Zahlenraten.deps.json
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\bin\Debug\net6.0\Zahlenraten.runtimeconfig.json
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\bin\Debug\net6.0\Zahlenraten.dll
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\bin\Debug\net6.0\Zahlenraten.pdb
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\Zahlenraten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\Zahlenraten.AssemblyInfoInputs.cache
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\Zahlenraten.AssemblyInfo.cs
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\Zahlenraten.csproj.CoreCompileInputs.cache
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\Zahlenraten.dll
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\refint\Zahlenraten.dll
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\Zahlenraten.pdb
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\Zahlenraten.genruntimeconfig.cache
+C:\Users\41797\source\repos\Zahlenraten\Zahlenraten\obj\Debug\net6.0\ref\Zahlenraten.dll
